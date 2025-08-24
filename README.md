@@ -30,15 +30,6 @@ This work represents the **software component** of my **Internally Funded Projec
 
 ---
 
-## Project Structure
-├── samples/ # Sample test images
-│ └── test_image.png
-├── main.py # Training and ensemble script
-├── requirements.txt # Dependencies
-├── .env.example # Environment variables template
-└── README.md # Documentation
-└── LICENSE # License
-└── assests/ # Model Performance
 ##License
 
 This project is licensed under the Apache 2.0 License.
