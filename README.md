@@ -30,6 +30,6 @@ This work represents the **software component** of my **Internally Funded Projec
 
 ---
 
-##License
+## License
 
 This project is licensed under the Apache 2.0 License.
